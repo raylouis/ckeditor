@@ -17,7 +17,7 @@ if (!defined('IN_CMS')) { exit(); }
 Plugin::setInfos(array(
     'id'                    => 'ckeditor',
     'title'                 => __('CKEditor'),
-    'description'           => __('This plugin adds the CKEditor as a WYSIWYG filter in Wolf CMS.'),
+    'description'           => __('Adds CKEditor as a WYSIWYG filter to Wolf CMS.'),
     'type'                  => 'backend',
     'author'                => 'Nic Wortel',
     'version'               => '0.1.0',
